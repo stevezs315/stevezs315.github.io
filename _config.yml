@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Steve Zeng's Homepage"
-description              : "Welcome to Steve Zeng's Homepage. "
+description              : "Joint Ph.D. student of Peking University - Georgia Institute of Technology - Emory University"
 repository               : "stevezs315/stevezs315.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shuang Zeng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Biomedical Engineering"
   location         : "Atlanta, Georgia, USA"
   employer         :
   pubmed           : 
