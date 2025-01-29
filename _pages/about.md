@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Shuang Zeng, welcome to my homepage. I received my bachelor's degree in Engineering from Peking Unversity, Beijing, China in 2021. Currently, I am a Biomedical Engineering joint Ph.D. student of Peking University - Georgia Institute of Technology - Emory University. I am very fortunate to be advised by [Prof. Qiushi Ren](https://future.pku.edu.cn/jsdw/jy/swyxgcx1/9b0b9d9a9635465898577c28b0b03c01.htm) from College of Future Technology, PKU and [Prof. May Dongmei Wang](https://www.bme.gatech.edu/bme/faculty/May-Dongmei-Wang) from Gatech. My research interest mainly focuses on self-supervised contrastive learning, Large Language Models, medical image segmentation. Welcome to reach out to me for communication and cooperation!
+Hi, my name is Shuang Zeng, welcome to my homepage. I received my bachelor's degree in Engineering from Peking Unversity, Beijing, China in 2021. Currently, I am a Biomedical Engineering joint Ph.D. student of Peking University - Georgia Institute of Technology - Emory University. I am very fortunate to be advised by [Prof. Qiushi Ren](https://future.pku.edu.cn/jsdw/jy/swyxgcx1/9b0b9d9a9635465898577c28b0b03c01.htm) from College of Future Technology, PKU and [Prof. May Dongmei Wang](https://www.bme.gatech.edu/bme/faculty/May-Dongmei-Wang) from Wallace H. Coulter Department
+fo Biomedical Engineering, Georgia Institute of Technology and Emory University. My research interest mainly focuses on self-supervised contrastive learning, Large Language Models, medical image segmentation. Welcome to reach out to me for communication and cooperation!
 
 
 <!-- # 🔥 News
