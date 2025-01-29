@@ -39,9 +39,9 @@ fo Biomedical Engineering, Georgia Institute of Technology and Emory University.
 
 ## Conference Proceedings
 
-- Yixin Chen, Xiangxi Meng, Yan Wang, **Shuang Zeng** et al.LUCIDA: Low-dose Universal-tissue CT Image Domain Adaptation For Medical Segmentation *MICCAI 2024*
-- Qian Chen, Lei Zhu, Hangzhou He, Xinliang Zhang, **Shuang Zeng** et al. Low-Rank Mixture-of-Experts for Continual Medical Image Segmentation *MICCAI 2024*
-- Hangzhou He, Lei Zhu, Xinliang Zhang, **Shuang Zeng** et al. V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer *AAAI 2025*
+- Yixin Chen, Xiangxi Meng, Yan Wang, **Shuang Zeng** et al.[LUCIDA: Low-dose Universal-tissue CT Image Domain Adaptation For Medical Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_37) *MICCAI 2024*
+- Qian Chen, Lei Zhu, Hangzhou He, Xinliang Zhang, **Shuang Zeng** et al. [Low-Rank Mixture-of-Experts for Continual Medical Image Segmentation](https://arxiv.org/abs/2406.13583) *MICCAI 2024*
+- Hangzhou He, Lei Zhu, Xinliang Zhang, **Shuang Zeng** et al. [V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer](https://arxiv.org/pdf/2501.04975)*AAAI 2025*
 
 # 🎖 Honors and Awards
 
