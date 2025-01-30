@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, my name is Shuang Zeng, welcome to my homepage. I received my bachelor's degree in Engineering from Peking Unversity, Beijing, China in 2021. Currently, I am a Biomedical Engineering joint Ph.D. student of Peking University - Georgia Institute of Technology - Emory University. I am very fortunate to be advised by [Prof. Qiushi Ren](https://future.pku.edu.cn/jsdw/jy/swyxgcx1/9b0b9d9a9635465898577c28b0b03c01.htm) from College of Future Technology, PKU and [Prof. May Dongmei Wang](https://www.bme.gatech.edu/bme/faculty/May-Dongmei-Wang) from Wallace H. Coulter Department
-fo Biomedical Engineering, Georgia Institute of Technology and Emory University. My research interest mainly focuses on self-supervised contrastive learning, Large Language Models, medical image segmentation. Welcome to reach out to me for communication and cooperation!
+of Biomedical Engineering, Georgia Institute of Technology and Emory University. My research interest mainly focuses on self-supervised contrastive learning, Large Language Models, medical image segmentation. Welcome to reach out to me for communication and cooperation!
 
 
 <!-- # 🔥 News
@@ -39,7 +39,7 @@ fo Biomedical Engineering, Georgia Institute of Technology and Emory University.
 
 ## Conference Proceedings
 
-- Yixin Chen, Xiangxi Meng, Yan Wang, **Shuang Zeng** et al.[LUCIDA: Low-dose Universal-tissue CT Image Domain Adaptation For Medical Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_37) *MICCAI 2024*
+- Yixin Chen, Xiangxi Meng, Yan Wang, **Shuang Zeng** et al. [LUCIDA: Low-dose Universal-tissue CT Image Domain Adaptation For Medical Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_37) *MICCAI 2024*
 - Qian Chen, Lei Zhu, Hangzhou He, Xinliang Zhang, **Shuang Zeng** et al. [Low-Rank Mixture-of-Experts for Continual Medical Image Segmentation](https://arxiv.org/abs/2406.13583) *MICCAI 2024*
 - Hangzhou He, Lei Zhu, Xinliang Zhang, **Shuang Zeng** et al. [V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer](https://arxiv.org/pdf/2501.04975) *AAAI 2025*
 
