@@ -23,10 +23,8 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 
 # 🔥 News
 - *2025.2.6*:
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CRIDC (Career, Research, and Innovation Development Conference) 2025, Gatech, ATL </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CRIDC (Career, Research, and Innovation Development Conference) 2025, Gatech, ATL </div><img src='images/CRIDC.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+
 
 # 📝 Publications 
 
