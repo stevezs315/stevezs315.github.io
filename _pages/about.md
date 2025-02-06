@@ -21,7 +21,10 @@ Hi, my name is Shuang Zeng, welcome to my homepage. I received my bachelor's deg
 of Biomedical Engineering, Georgia Institute of Technology and Emory University. My research interest mainly focuses on self-supervised contrastive learning, Large Language Models, medical image segmentation. Welcome to reach out to me for communication and cooperation!
 
 
-<!-- # 🔥 News
+# 🔥 News
+- *2025.2.6*:
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CRIDC (Career, Research, and Innovation Development Conference) 2025, Gatech, ATL </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
