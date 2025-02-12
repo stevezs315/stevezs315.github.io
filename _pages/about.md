@@ -30,9 +30,9 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 
 ## Journal Articles
 
-- **Shuang Zeng** et al. [Multi-level Asymmetric Contrastive Learning for Volumetric Medical Image Segmentation Pre-training](https://arxiv.org/abs/2309.11876) (TNNLS under review)
-- **Shuang Zeng** et al. SuperCL: Superpixel Guided Contrastive Learning for Medical Image Segmentation Pre-training, (TMI under review)
-- **Shuang Zeng** et al. Pay Attention to Discriminative Fine-grained Feature for Retinal Vessel Segmentation (JBHI under review)
+- **Shuang Zeng** et al. [Multi-level Asymmetric Contrastive Learning for Volumetric Medical Image Segmentation Pre-training](https://arxiv.org/abs/2309.11876)
+- **Shuang Zeng** et al. SuperCL: Superpixel Guided Contrastive Learning for Medical Image Segmentation Pre-training
+- **Shuang Zeng** et al. Pay Attention to Discriminative Fine-grained Feature for Retinal Vessel Segmentation
 - Bin Qiu, **Shuang Zeng** et al. [Comparative study of deep neural networks with unsupervised Noise2Noise strategy for noise reduction of optical coherence tomography images](https://doi.org/10.1002/jbio.202100151), (Journal of Biophotonics, IF: 2.00)
 - Wenbo Zhang, Junmeng Li, Lei Zhu, **Shuang Zeng** et al. [Choroidal Vascularity Index and Choroidal Structural Changes in Children With Nephrotic Syndrome](https://doi.org/10.1167/tvst.13.3.18), (TVST, IF: 2.6)
 - Lei Zhu, Xinliang Zhang, Hangzhou He, Qian Chen, Sha Li, **Shuang Zeng** et al. [Branches Mutual Promotion for End-to-End Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2308.04949) (TNNLS, IF: 10.2)
