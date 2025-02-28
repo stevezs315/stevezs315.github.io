@@ -22,6 +22,10 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 
 
 # 🔥 News
+
+- *2025.2.27*:
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI (Assocaition for the Advancement of Artificial Intelligence) 2025, Pennsylvania Convention Center, Philadelphia </div><img src='../images/AAAI2025.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1"> I attended AAAI 2025 conference as a co-author from Feb. 25th to Mar. 4th.
+
 - *2025.2.6*:
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CRIDC (Career, Research, and Innovation Development Conference) 2025, Gatech, ATL </div><img src='../images/CRIDC.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1"> I really appreciate to have the chance to attend CRIDC 2025 poster competition at Georgia Institute of Technology, Atlanta, USA.
 
