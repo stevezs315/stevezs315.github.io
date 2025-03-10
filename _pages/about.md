@@ -59,6 +59,9 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 - *2021.6*, Excellent Graduate of Peking University
 - *2022.12*, Award for Science Research of Peking University
 - *2023.12*, Award for Contribution in Student Organizations fo Peking University
+- *2024.5*, Outstanding Communist Youth League Member of Peking University
+- *2024.6*, The Third Prize of the 32nd "Challenge Cup" May Fourth Youth Science Award Competition of Peking University
+- *2024.10* BMEJ fellowship award of Georgia Institute of Technology
 - *2024.12*, The Third Prize of Peking University Scholarship
 - *2024.12*, Award for Science Research of Peking University
 
