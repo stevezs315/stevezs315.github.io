@@ -22,7 +22,8 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 
 
 # 🔥 News
-- *2025.3.20*: I am honored to be selected to receive a fellowship to attend the [22nd NSF International Summer Leadership Academy on Bio-X: AI in Healthcare, Medicine and Biology](http://2025.biocomplexitysummerschool.org/index.html) on the lovely Mediterranean Island of Rhodes, Greece from May 27th - June 2nd, 2025.
+- *2025.3.20*:
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">22nd NSF International Summer Leadership Academy on Bio-X: AI in Healthcare, Medicine and Biology </div><img src='../images/AAAI2025.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1"> I am honored to be selected to receive a fellowship to attend the [22nd NSF International Summer Leadership Academy on Bio-X: AI in Healthcare, Medicine and Biology](http://2025.biocomplexitysummerschool.org/index.html) on the lovely Mediterranean Island of Rhodes, Greece from May 27th - June 2nd, 2025.
 - *2025.2.27*:
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI (Assocaition for the Advancement of Artificial Intelligence) 2025, Pennsylvania Convention Center, Philadelphia </div><img src='../images/AAAI2025.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1"> I attended AAAI 2025 conference as a co-author from Feb. 25th to Mar. 4th.
 
