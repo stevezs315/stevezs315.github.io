@@ -36,7 +36,7 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 ## Journal Articles
 
 - **Shuang Zeng** et al. [Multi-level Asymmetric Contrastive Learning for Volumetric Medical Image Segmentation Pre-training](https://arxiv.org/abs/2309.11876)
-- **Shuang Zeng** et al. SuperCL: Superpixel Guided Contrastive Learning for Medical Image Segmentation Pre-training
+- **Shuang Zeng** et al. [SuperCL: Superpixel Guided Contrastive Learning for Medical Image Segmentation Pre-training](https://arxiv.org/abs/2504.14737)
 - **Shuang Zeng** et al. Novel Extraction of Discriminative Fine-Grained Feature to Improve Retinal Vessel Segmentation
 - Xinliang Zhang, Lei Zhu, **Shuang Zeng** et al. [Exploiting Inherent Class Label: Towards Robust Scribble Supervised Semantic Segmentation](https://arxiv.org/abs/2503.13895)
 - Bin Qiu, **Shuang Zeng** et al. [Comparative study of deep neural networks with unsupervised Noise2Noise strategy for noise reduction of optical coherence tomography images](https://doi.org/10.1002/jbio.202100151), (Journal of Biophotonics, IF: 2.00)
