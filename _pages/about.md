@@ -66,7 +66,9 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 - *2024.10* BMEJ fellowship award of Georgia Institute of Technology
 - *2024.12*, The Third Prize of Peking University Scholarship
 - *2024.12*, Award for Science Research of Peking University
-- *2025.3*，NSF fellowship to attend the 22nd International Summer Academy on AI in Healthcare, Medicine and Biology   
+- *2025.3*，NSF fellowship to attend the 22nd International Summer Academy on AI in Healthcare, Medicine and Biology
+- *2025.6*, The First Prize of the 32nd "Challenge Cup" May Fourth Youth Science Award Competition of Peking University
+- *2025.6*, The First Prize of the 32nd "Challenge Cup" May Fourth Youth Science Award Competition of Peking University   
 
 # 📖 Educations
 - *2024.08 - now*, Ph.D. student in [Bio-MIBLab](https://miblab.bme.gatech.edu/), Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology (Joint GT-Emory-PKU Ph.D. program). 
