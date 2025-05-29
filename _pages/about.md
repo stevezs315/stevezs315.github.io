@@ -22,8 +22,8 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 
 
 # 🔥 News
--*2025.5.29*：
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/poster.png alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1"> I won the First Prize of the 33rd "Challenge Cup" May Fourth Youth Science Award Competition of Peking University.
+- *2025.5.29*：
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/poster.png alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1"> I won the First Prize of the 33rd "Challenge Cup" May Fourth Youth Science Award Competition of Peking University.
   
 - *2025.3.20*:
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/participant_img.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1"> I am honored to be selected to receive a fellowship to attend the [22nd NSF International Summer Leadership Academy on Bio-X: AI in Healthcare, Medicine and Biology](http://2025.biocomplexitysummerschool.org/index.html) on the lovely Mediterranean Island of Rhodes, Greece from May 27th - June 2nd, 2025.
