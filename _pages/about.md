@@ -22,6 +22,8 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 
 
 # 🔥 News
+-*2025.5.29*：
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/participant_img.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1"> I won the First Prize of the 33rd "Challenge Cup" May Fourth Youth Science Award Competition of Peking University.
 - *2025.3.20*:
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/participant_img.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1"> I am honored to be selected to receive a fellowship to attend the [22nd NSF International Summer Leadership Academy on Bio-X: AI in Healthcare, Medicine and Biology](http://2025.biocomplexitysummerschool.org/index.html) on the lovely Mediterranean Island of Rhodes, Greece from May 27th - June 2nd, 2025.
 - *2025.2.27*:
@@ -67,8 +69,8 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 - *2024.12*, The Third Prize of Peking University Scholarship
 - *2024.12*, Award for Science Research of Peking University
 - *2025.3*，NSF fellowship to attend the 22nd International Summer Academy on AI in Healthcare, Medicine and Biology
-- *2025.6*, The First Prize of the 32nd "Challenge Cup" May Fourth Youth Science Award Competition of Peking University
-- *2025.6*, The First Prize of the 32nd "Challenge Cup" May Fourth Youth Science Award Competition of Peking University   
+- *2025.6*, The First Prize of the 33rd "Challenge Cup" May Fourth Youth Science Award Competition of Peking University
+- *2025.6*, The Third Prize of the 33rd "Challenge Cup" May Fourth Youth Science Award Competition of Peking University
 
 # 📖 Educations
 - *2024.08 - now*, Ph.D. student in [Bio-MIBLab](https://miblab.bme.gatech.edu/), Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology (Joint GT-Emory-PKU Ph.D. program). 
