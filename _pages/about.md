@@ -24,7 +24,7 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 # 🔥 News
 
 - *2025.6.1*
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">22nd NSF International Summer Leadership Academy on Bio-X: AI in Healthcare, Medicine and Biology</div><img src='../images/Bio-X.jpg' alt="sym" width="80%"></div></div><div class='paper-box-text' markdown="1"> I gave a presentation about my work (SuperCL) as a student participant at 22nd NSF International Summer Leadership Academy on Bio-X: AI in Healthcare, Medicine and Biology.
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">22nd NSF International Summer Leadership Academy on Bio-X: AI in Healthcare, Medicine and Biology</div><img src='../images/Bio-X.jpg' alt="sym" width="80%"></div></div><div class='paper-box-text' markdown="1"> I gave a presentation about my work (SuperCL) as a student participant at 22nd NSF International Summer Leadership Academy on Bio-X: AI in Healthcare, Medicine and Biology.
 
 - *2025.5.29*:
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">the 33rd "Challenge Cup" May Fourth Youth Science Award Comeptition of Peking University </div><img src='../images/poster.jpg' alt="sym" width="80%"></div></div><div class='paper-box-text' markdown="1"> I won the First Prize of the 33rd "Challenge Cup" May Fourth Youth Science Award Competition of Peking University.
