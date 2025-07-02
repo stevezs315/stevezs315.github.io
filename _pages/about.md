@@ -45,6 +45,7 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 - **Shuang Zeng** et al. [SuperCL: Superpixel Guided Contrastive Learning for Medical Image Segmentation Pre-training](https://arxiv.org/abs/2504.14737)
 - **Shuang Zeng** et al. [Novel Extraction of Discriminative Fine-Grained Feature to Improve Retinal Vessel Segmentation](https://arxiv.org/abs/2505.03896)
 - Xinliang Zhang, Lei Zhu, **Shuang Zeng** et al. [Exploiting Inherent Class Label: Towards Robust Scribble Supervised Semantic Segmentation](https://arxiv.org/abs/2503.13895)
+- Kaiwen Li, Hangzhou He, Lei Zhu, **Shuang Zeng** et al. Points-supervised Fundus Vessel Segmentation via Shape Priors and Contrastive Learning (TMI, IF: 9.8)
 - Bin Qiu, **Shuang Zeng** et al. [Comparative study of deep neural networks with unsupervised Noise2Noise strategy for noise reduction of optical coherence tomography images](https://doi.org/10.1002/jbio.202100151), (Journal of Biophotonics, IF: 2.00)
 - Wenbo Zhang, Junmeng Li, Lei Zhu, **Shuang Zeng** et al. [Choroidal Vascularity Index and Choroidal Structural Changes in Children With Nephrotic Syndrome](https://doi.org/10.1167/tvst.13.3.18), (TVST, IF: 2.6)
 - Lei Zhu, Xinliang Zhang, Hangzhou He, Qian Chen, Sha Li, **Shuang Zeng** et al. [Branches Mutual Promotion for End-to-End Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2308.04949) (TNNLS, IF: 10.2)
