@@ -23,6 +23,9 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 
 # 🔥 News
 
+- *2025.7.3*
+  My 1-page Abstract paper titled "Medical Imaging Informatics - Multi-level Asymmetric Contrastive Learning for Enhancing Segmentation" is accepted by IEEE BHI 2025 conference as poster representation.
+  
 - *2025.6.1*
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/Bio-X.jpg' alt="sym" width="80%"></div></div><div class='paper-box-text' markdown="1"> I gave a presentation about my work (SuperCL) as a student participant at 22nd NSF International Summer Leadership Academy on Bio-X: AI in Healthcare, Medicine and Biology.
 
