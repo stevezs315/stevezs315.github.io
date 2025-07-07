@@ -23,7 +23,7 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 
 # 🔥 News
 
-- *2025.7.3*
+- *2025.7.3*:
   My 1-page Abstract paper titled "Medical Imaging Informatics - Multi-level Asymmetric Contrastive Learning for Enhancing Segmentation" is accepted by IEEE BHI 2025 conference as poster representation.
   
 - *2025.6.1*
@@ -59,6 +59,7 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 - Yixin Chen, Xiangxi Meng, Yan Wang, **Shuang Zeng** et al. [LUCIDA: Low-dose Universal-tissue CT Image Domain Adaptation For Medical Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_37) *MICCAI 2024*
 - Qian Chen, Lei Zhu, Hangzhou He, Xinliang Zhang, **Shuang Zeng** et al. [Low-Rank Mixture-of-Experts for Continual Medical Image Segmentation]([https://arxiv.org/abs/2406.13583](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_36)) *MICCAI 2024*
 - Hangzhou He, Lei Zhu, Xinliang Zhang, **Shuang Zeng** et al. [V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer](https://arxiv.org/pdf/2501.04975) *AAAI 2025*
+- **Shuang Zeng** et al. [Medical Imaging Informatics - Multi-level Asymmetric Contrastive Learning for Enhancing Segmentation](https://openreview.net/forum?id=mQGjZLK2BT&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DIEEE.org%2FEMBS%2FBHI%2F2025%2FAbstracts%2FAuthors%23your-submissions)) *IEEE BHI 2025 1-page Abstracts* 
 
 # 🎖 Honors and Awards
 
@@ -84,6 +85,7 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 - *2024.08 - now*, Ph.D. student in [Bio-MIBLab](https://miblab.bme.gatech.edu/), Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology (Joint GT-Emory-PKU Ph.D. program). 
 - *2021.09 - now*, Ph.D. student in [MILab](https://milab-pku.github.io/), Biomedical Engineering, College of Future Technology, Peking University
 - *2017.09 - 2021.07*, Bachelor in Biomedical Engineering, College of Engineering, Peking University
+- IEEE BHI reviewer
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
