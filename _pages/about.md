@@ -85,7 +85,8 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 - *2024.08 - now*, Ph.D. student in [Bio-MIBLab](https://miblab.bme.gatech.edu/), Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology (Joint GT-Emory-PKU Ph.D. program). 
 - *2021.09 - now*, Ph.D. student in [MILab](https://milab-pku.github.io/), Biomedical Engineering, College of Future Technology, Peking University
 - *2017.09 - 2021.07*, Bachelor in Biomedical Engineering, College of Engineering, Peking University
-- IEEE BHI reviewer
+- IEEE Journal JBHI reviewer
+- IEEE conference BHI reviewer
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
