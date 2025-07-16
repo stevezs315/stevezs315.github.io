@@ -52,14 +52,15 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 - Bin Qiu, **Shuang Zeng** et al. [Comparative study of deep neural networks with unsupervised Noise2Noise strategy for noise reduction of optical coherence tomography images](https://doi.org/10.1002/jbio.202100151), (Journal of Biophotonics, IF: 2.00)
 - Wenbo Zhang, Junmeng Li, Lei Zhu, **Shuang Zeng** et al. [Choroidal Vascularity Index and Choroidal Structural Changes in Children With Nephrotic Syndrome](https://doi.org/10.1167/tvst.13.3.18), (TVST, IF: 2.6)
 - Lei Zhu, Xinliang Zhang, Hangzhou He, Qian Chen, Sha Li, **Shuang Zeng** et al. [Branches Mutual Promotion for End-to-End Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2308.04949) (TNNLS, IF: 10.2)
-- Lei Zhu, Junmeng Li, Yicheng Hu, Ruilin Zhu, **Shuang Zeng** et al. [Choroidal Optical Coherence TomographyAngiography: Noninvasive Choroidal VesselAnalysis via Deep Learning](https://pubmed.ncbi.nlm.nih.gov/39257642/) (Health Data Science)
+- Lei Zhu, Junmeng Li, Yicheng Hu, Ruilin Zhu, **Shuang Zeng** et al. [Choroidal Optical Coherence Tomography Angiography: Noninvasive Choroidal Vessel Analysis via Deep Learning](https://pubmed.ncbi.nlm.nih.gov/39257642/) (Health Data Science)
 
 ## Conference Proceedings
 
 - Yixin Chen, Xiangxi Meng, Yan Wang, **Shuang Zeng** et al. [LUCIDA: Low-dose Universal-tissue CT Image Domain Adaptation For Medical Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_37) *MICCAI 2024*
 - Qian Chen, Lei Zhu, Hangzhou He, Xinliang Zhang, **Shuang Zeng** et al. [Low-Rank Mixture-of-Experts for Continual Medical Image Segmentation]([https://arxiv.org/abs/2406.13583](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_36)) *MICCAI 2024*
 - Hangzhou He, Lei Zhu, Xinliang Zhang, **Shuang Zeng** et al. [V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer](https://arxiv.org/pdf/2501.04975) *AAAI 2025*
-- **Shuang Zeng** et al. [Medical Imaging Informatics - Multi-level Asymmetric Contrastive Learning for Enhancing Segmentation](https://openreview.net/forum?id=mQGjZLK2BT&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DIEEE.org%2FEMBS%2FBHI%2F2025%2FAbstracts%2FAuthors%23your-submissions)) *IEEE BHI 2025 1-page Abstracts* 
+- **Shuang Zeng** et al. [Medical Imaging Informatics - Multi-level Asymmetric Contrastive Learning for Enhancing Segmentation](https://openreview.net/forum?id=mQGjZLK2BT&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DIEEE.org%2FEMBS%2FBHI%2F2025%2FAbstracts%2FAuthors%23your-submissions)) *IEEE BHI 2025 1-page Abstracts*
+- Ourui Fu, Hangzhou He, Xinliang Zhang, Lei Zhu, **Shuang Zeng** et al. [I^2R: Inter and Intra-image Refinement in Few Shot Segmentation](https://arxiv.org/abs/2507.05838)
 
 # 🎖 Honors and Awards
 
