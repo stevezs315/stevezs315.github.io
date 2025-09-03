@@ -76,7 +76,7 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 - *2021.6*, Outstanding Undergraduate Scientific Research Program of School of Engineering, Peking University
 - *2021.6*, Excellent Graduate of Peking University
 - *2022.12*, Award for Science Research of Peking University
-- *2023.12*, Award for Contribution in Student Organizations fo Peking University
+- *2023.12*, Award for Contribution in Student Organizations of Peking University
 - *2024.5*, Outstanding Communist Youth League Member of Peking University
 - *2024.6*, The Third Prize of the 32nd "Challenge Cup" May Fourth Youth Science Award Competition of Peking University
 - *2024.10* BMEJ fellowship award of Georgia Institute of Technology
@@ -102,6 +102,7 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://stevezs315.github.io/&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
 </a>
+
 
 
 
