@@ -23,12 +23,12 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 
 # 🔥 News
 
-- *2025.9.2*:
-  My paper titled "Novel Extraction of Discriminative Fine-Grained Feature to Improve Retinal Vessel Segmentation" is accepted by Image and Vision Computing. 
-
-- *2025.7.3*:
-  My 1-page Abstract paper titled "Medical Imaging Informatics - Multi-level Asymmetric Contrastive Learning for Enhancing Segmentation" is accepted by IEEE BHI 2025 conference as poster representation.
+- *2025.9.18*:
+  4 one-page Abstract papers are accepted by IEEE BHI 2025 conference as poster representation.
   
+- *2025.9.2*:
+  My paper titled "Novel Extraction of Discriminative Fine-Grained Feature to Improve Retinal Vessel Segmentation" is accepted by Image and Vision Computing.
+    
 - *2025.6.1*
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/Bio-X.jpg' alt="sym" width="80%"></div></div><div class='paper-box-text' markdown="1"> I gave a presentation about my work (SuperCL) as a student participant at 22nd NSF International Summer Leadership Academy on Bio-X: AI in Healthcare, Medicine and Biology.
 
@@ -102,6 +102,7 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://stevezs315.github.io/&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
 </a>
+
 
 
 
