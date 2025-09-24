@@ -22,7 +22,8 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 
 
 # 🔥 News
-
+- *2025.9.24*:
+  I have been selected for the IEEE BHI 2025 NSF-EMBS-Google Sponsored Young Professional NextGen Scholar Recognition.  
 - *2025.9.18*:
   4 one-page Abstract papers are accepted by IEEE BHI 2025 conference as poster representation.
   
@@ -88,6 +89,7 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 - *2025.3*，NSF fellowship to attend the 22nd International Summer Academy on AI in Healthcare, Medicine and Biology
 - *2025.6*, The First Prize of the 33rd "Challenge Cup" May Fourth Youth Science Award Competition of Peking University
 - *2025.6*, The Third Prize of the 33rd "Challenge Cup" May Fourth Youth Science Award Competition of Peking University
+- *2025.9*, IEEE BHI 2025 NSF-EMBS-Google Sponsored Young Professional NextGen Scholar Recognition
 
 # 📖 Educations
 - *2024.08 - now*, Ph.D. student in [Bio-MIBLab](https://miblab.bme.gatech.edu/), Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology (Joint GT-Emory-PKU Ph.D. program). 
@@ -105,6 +107,7 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://stevezs315.github.io/&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
 </a>
+
 
 
 
