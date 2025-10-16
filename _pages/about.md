@@ -62,7 +62,7 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 ## Conference Proceedings
 
 - Yixin Chen, Xiangxi Meng, Yan Wang, **Shuang Zeng** et al. [LUCIDA: Low-dose Universal-tissue CT Image Domain Adaptation For Medical Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_37) *MICCAI 2024*
-- Qian Chen, Lei Zhu, Hangzhou He, Xinliang Zhang, **Shuang Zeng** et al. [Low-Rank Mixture-of-Experts for Continual Medical Image Segmentation]([https://arxiv.org/abs/2406.13583] *MICCAI 2024*
+- Qian Chen, Lei Zhu, Hangzhou He, Xinliang Zhang, **Shuang Zeng** et al. [Low-Rank Mixture-of-Experts for Continual Medical Image Segmentation](https://arxiv.org/abs/2406.13583) *MICCAI 2024*
 - Hangzhou He, Lei Zhu, Xinliang Zhang, **Shuang Zeng** et al. [V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer](https://arxiv.org/pdf/2501.04975) *AAAI 2025*
 - **Shuang Zeng** et al. [Medical Imaging Informatics - Multi-level Asymmetric Contrastive Learning for Enhancing Segmentation](https://openreview.net/forum?id=mQGjZLK2BT&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DIEEE.org%2FEMBS%2FBHI%2F2025%2FAbstracts%2FAuthors%23your-submissions)) *IEEE BHI 2025 1-page Abstracts*
 - **Shuang Zeng** et al. [Superpixel-Aware Contrastive Pre-training for Medical Image Segmentation](https://openreview.net/forum?id=hxTdIFhzA2&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DIEEE.org%2FEMBS%2FBHI%2F2025%2FAbstracts%2FAuthors%23your-submissions)) *IEEE BHI 2025 1-page Abstracts*
@@ -108,6 +108,7 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://stevezs315.github.io/&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
 </a>
+
 
 
 
