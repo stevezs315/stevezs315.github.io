@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Shuang Zeng, welcome to my homepage. I received my bachelor's degree in Engineering from Peking Unversity, Beijing, China in 2021. Currently, I am a Biomedical Engineering joint Ph.D. student of Peking University - Georgia Institute of Technology - Emory University. I am very fortunate to be advised by [Prof. Qiushi Ren](https://future.pku.edu.cn/jsdw/jy/swyxgcx1/9b0b9d9a9635465898577c28b0b03c01.htm) from College of Future Technology, PKU and [Prof. May Dongmei Wang](https://www.bme.gatech.edu/bme/faculty/May-Dongmei-Wang) from Wallace H. Coulter Department
+Hi, my name is Shuang Zeng, welcome to my homepage. I received my bachelor's degree in Engineering from Peking University, Beijing, China in 2021. Currently, I am a Biomedical Engineering joint Ph.D. student of Peking University - Georgia Institute of Technology - Emory University. I am very fortunate to be advised by [Prof. Qiushi Ren](https://future.pku.edu.cn/jsdw/jy/swyxgcx1/9b0b9d9a9635465898577c28b0b03c01.htm) from College of Future Technology, PKU and [Prof. May Dongmei Wang](https://www.bme.gatech.edu/bme/faculty/May-Dongmei-Wang) from Wallace H. Coulter Department
 of Biomedical Engineering, Georgia Institute of Technology and Emory University. My research interest mainly focuses on self-supervised contrastive learning, Large Language Models, explainable AI and medical image processing. Welcome to reach out to me for communication and cooperation!
 
 
@@ -90,6 +90,7 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 - *2025.6*, The First Prize of the 33rd "Challenge Cup" May Fourth Youth Science Award Competition of Peking University
 - *2025.6*, The Third Prize of the 33rd "Challenge Cup" May Fourth Youth Science Award Competition of Peking University
 - *2025.9*, IEEE BHI 2025 NSF-EMBS-Google Sponsored Young Professional NextGen Scholar Recognition
+- 
 
 # 📖 Educations
 - *2024.08 - now*, Ph.D. student in [Bio-MIBLab](https://miblab.bme.gatech.edu/), Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology (Joint GT-Emory-PKU Ph.D. program). 
@@ -107,6 +108,7 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://stevezs315.github.io/&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
 </a>
+
 
 
 
