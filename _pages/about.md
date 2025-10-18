@@ -69,6 +69,7 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 - Yuxing Lu, Goi Sin Yee, **Shuang Zeng** et al. [Assessing Large Language Models for Metabolomics](https://openreview.net/forum?id=jrjoVhZzgx&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DIEEE.org%2FEMBS%2FBHI%2F2025%2FAbstracts%2FAuthors%23your-submissions)) *IEEE BHI 2025 1-page Abstracts*
 - Yuxing Lu, Goi Sin Yee, **Shuang Zeng** et al. [MultiMed-RAG: Leveraging Multi-Source Knowledge and Agent Collaboration for Medical Tasks](https://openreview.net/forum?id=G5beqcp9fE&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DIEEE.org%2FEMBS%2FBHI%2F2025%2FAbstracts%2FAuthors%23your-submissions)) *IEEE BHI 2025 1-page Abstracts*
 - Ourui Fu, Hangzhou He, Xinliang Zhang, Lei Zhu, **Shuang Zeng** et al. [I^2R: Inter and Intra-image Refinement in Few Shot Segmentation](https://arxiv.org/abs/2507.05838)
+- Yuxing Lu, Xukai Zhao, J. Ben Tao, Micky C. Nnamdi, Rui Peng, **Shuang Zeng** et al. [MetaBench: A Multi-task Benchmark for Assessing LLMs in Metabolomics](https://www.arxiv.org/abs/2510.14944)
 
 # 🎖 Honors and Awards
 
@@ -90,7 +91,6 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 - *2025.6*, The First Prize of the 33rd "Challenge Cup" May Fourth Youth Science Award Competition of Peking University
 - *2025.6*, The Third Prize of the 33rd "Challenge Cup" May Fourth Youth Science Award Competition of Peking University
 - *2025.9*, IEEE BHI 2025 NSF-EMBS-Google Sponsored Young Professional NextGen Scholar Recognition
-- 
 
 # 📖 Educations
 - *2024.08 - now*, Ph.D. student in [Bio-MIBLab](https://miblab.bme.gatech.edu/), Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology (Joint GT-Emory-PKU Ph.D. program). 
@@ -108,6 +108,7 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://stevezs315.github.io/&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
 </a>
+
 
 
 
