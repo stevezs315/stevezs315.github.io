@@ -71,6 +71,9 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 - Ourui Fu, Hangzhou He, Xinliang Zhang, Lei Zhu, **Shuang Zeng** et al. [I^2R: Inter and Intra-image Refinement in Few Shot Segmentation](https://arxiv.org/abs/2507.05838)
 - Yuxing Lu, Xukai Zhao, J. Ben Tao, Micky C. Nnamdi, Rui Peng, **Shuang Zeng** et al. [MetaBench: A Multi-task Benchmark for Assessing LLMs in Metabolomics](https://www.arxiv.org/abs/2510.14944)
 
+## Patents
+- 一种基于多层级非对称对比学习的医学图像分割方法，曾爽；卢闫晔
+
 # 🎖 Honors and Awards
 
 - *2019.6*, "Shuyu Xia - Topaz Cen" Undergraduate Internship Scholarship
@@ -108,6 +111,7 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://stevezs315.github.io/&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
 </a>
+
 
 
 
