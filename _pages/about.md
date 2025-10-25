@@ -58,6 +58,7 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 - Wenbo Zhang, Junmeng Li, Lei Zhu, **Shuang Zeng** et al. [Choroidal Vascularity Index and Choroidal Structural Changes in Children With Nephrotic Syndrome](https://doi.org/10.1167/tvst.13.3.18), (TVST, IF: 2.6)
 - Lei Zhu, Xinliang Zhang, Hangzhou He, Qian Chen, Sha Li, **Shuang Zeng** et al. [Branches Mutual Promotion for End-to-End Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2308.04949) (TNNLS, IF: 10.2)
 - Lei Zhu, Junmeng Li, Yicheng Hu, Ruilin Zhu, **Shuang Zeng** et al. [Choroidal Optical Coherence Tomography Angiography: Noninvasive Choroidal Vessel Analysis via Deep Learning](https://pubmed.ncbi.nlm.nih.gov/39257642/) (Health Data Science)
+- Junmeng Li, Bei Rong, Lei Zhu, Ruilin Zhu, Xin Rong, Yuwei Wang, Yadi Zhang, Xiaopeng Gu, **Shuang Zeng** et al. [One-Month Changes in Choroidal Vascularity Index of Medium Vessel Layer in Children with Myopia Wearing Orthokeratology Lenses: a Predictor for One-Year Changes in Axial Length](https://link.springer.com/article/10.1007/s40123-025-01210-2) (Opthalmology and Therapy)
 
 ## Conference Proceedings
 
@@ -111,6 +112,7 @@ of Biomedical Engineering, Georgia Institute of Technology and Emory University.
 <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://stevezs315.github.io/&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
 </a>
+
 
 
 
