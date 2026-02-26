@@ -14,7 +14,7 @@ email:
 # cv_link: link-to-your-cv-file
 gscholar: https://scholar.google.com/citations?user=_65KJlIAAAAJ&hl=zh-TW # This is an example, replace it with your own Google Scholar ID
 github: stevezs
-twitter: your_twitter_id  # Do not include the '@' symbol
+# twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -27,9 +27,10 @@ short_bio: >-
     A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    Hi, my name is Shuang Zeng, welcome to my homepage. I received my bachelor's degree in Engineering from Peking University, Beijing, China in 2021. Currently, I am a Biomedical Engineering joint Ph.D. student of Peking University - Georgia Institute of Technology - Emory University. I am very fortunate to be advised by 
+    [Prof. Qiushi Ren](https://future.pku.edu.cn/jsdw/jy/swyxgcx1/9b0b9d9a9635465898577c28b0b03c01.htm) and Assistant Professor [Dr. Yanye Lu](https://nbic.pku.edu.cn/rcdw/kyry/jzyjy/b33cd89d98fb414681de8b103b36a198.htm) in [MILab](http://www.milab.wiki/) from College of Future Technology, PKU and 
+    [Prof. May Dongmei Wang](https://bme.gatech.edu/bio/may-dongmei-wang) in [Bio-MIBLab](https://miblab.bme.gatech.edu/) from Wallace H. Coulter Department
+of Biomedical Engineering, Georgia Institute of Technology and Emory University. My research interest mainly focuses on self-supervised contrastive learning, Large Language Models, explainable AI and medical image processing. Welcome to reach out to me for communication and cooperation!
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
