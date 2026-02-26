@@ -5,7 +5,7 @@ navbar_name: "Shuang Zeng"
 positions:
 - name: joint Ph.D. student
 - name: Peking University - Georgia Institute of Technology - Emory University
-  logo: /assets/images/badges/PKU_red.png  # Logo is optional
+- logo: /assets/images/badges/PKU_red.png  # Logo is optional
 
 
 email: 
