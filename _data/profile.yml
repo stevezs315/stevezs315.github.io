@@ -1,11 +1,11 @@
-primary_name: "Your Name"
+primary_name: "Shuang Zeng"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Shuang Zeng"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: joint Ph.D. student
+- name: Peking University - Georgia Institute of Technology - Emory University
+  logo: /assets/images/badges/PKU_red.png  # Logo is optional
 
 
 email: "your@email.com"
