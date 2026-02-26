@@ -27,15 +27,27 @@ short_bio: >-
     A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
   </p>
   <p>
-    Hi, my name is Shuang Zeng, welcome to my homepage. I received my bachelor's degree in Engineering from Peking University, Beijing, China in 2021. Currently, I am a Biomedical Engineering joint Ph.D. student of Peking University - Georgia Institute of Technology - Emory University. I am very fortunate to be advised by 
-    [Prof. Qiushi Ren](https://future.pku.edu.cn/jsdw/jy/swyxgcx1/9b0b9d9a9635465898577c28b0b03c01.htm) and Assistant Professor [Dr. Yanye Lu](https://nbic.pku.edu.cn/rcdw/kyry/jzyjy/b33cd89d98fb414681de8b103b36a198.htm) in [MILab](http://www.milab.wiki/) from College of Future Technology, PKU and 
-    [Prof. May Dongmei Wang](https://bme.gatech.edu/bio/may-dongmei-wang) in [Bio-MIBLab](https://miblab.bme.gatech.edu/) from Wallace H. Coulter Department
-of Biomedical Engineering, Georgia Institute of Technology and Emory University. My research interest mainly focuses on self-supervised contrastive learning, Large Language Models, explainable AI and medical image processing. Welcome to reach out to me for communication and cooperation!
+    Hi, my name is Shuang Zeng, welcome to my homepage. I received my bachelor's
+    degree in Engineering from Peking University, Beijing, China in 2021. Currently,
+    I am a Biomedical Engineering joint Ph.D. student of Peking University - Georgia
+    Institute of Technology - Emory University. I am very fortunate to be advised by
+    <a href="https://future.pku.edu.cn/jsdw/jy/swyxgcx1/9b0b9d9a9635465898577c28b0b03c01.htm" target="_blank">Prof. Qiushi Ren</a>
+    and Assistant Professor
+    <a href="https://nbic.pku.edu.cn/rcdw/kyry/jzyjy/b33cd89d98fb414681de8b103b36a198.htm" target="_blank">Dr. Yanye Lu</a>
+    in <a href="http://www.milab.wiki/" target="_blank">MILab</a>
+    from College of Future Technology, PKU and
+    <a href="https://bme.gatech.edu/bio/may-dongmei-wang" target="_blank">Prof. May Dongmei Wang</a>
+    in <a href="https://miblab.bme.gatech.edu/" target="_blank">Bio-MIBLab</a>
+    from Wallace H. Coulter Department of Biomedical Engineering,
+    Georgia Institute of Technology and Emory University.
+    My research interest mainly focuses on self-supervised contrastive learning,
+    Large Language Models, explainable AI and medical image processing.
+    Welcome to reach out to me for communication and cooperation!
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/生活照.jpg
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Massachusetts Institute of Technology
