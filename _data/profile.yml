@@ -8,7 +8,9 @@ positions:
   logo: /assets/images/badges/PKU_red.png  # Logo is optional
 
 
-email: "stevezs@pku.edu.cn", "szeng71@gatech.edu"
+email: 
+- "stevezs@pku.edu.cn"
+- "szeng71@gatech.edu"
 # cv_link: link-to-your-cv-file
 gscholar: https://scholar.google.com/citations?user=_65KJlIAAAAJ&hl=zh-TW # This is an example, replace it with your own Google Scholar ID
 github: stevezs
