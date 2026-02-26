@@ -79,22 +79,22 @@ awards:
   date: 2025.9
 - name: "The First Prize of the 33rd Challenge Cup May Fourth Youth Science Award Competition of Peking University"
   date: 2025.6
-- name: "The Third Prize of the 33rd Challenge Cup May Fourth Youth Science Award Competition of Peking University"
-  date: 2025.6
-- name: NSF Fellowship to attend the 22nd International Summer Academy on AI in Healthcare, Medicine and Biology
-  date: 2025.3
+# - name: "The Third Prize of the 33rd Challenge Cup May Fourth Youth Science Award Competition of Peking University"
+#   date: 2025.6
+# - name: NSF Fellowship to attend the 22nd International Summer Academy on AI in Healthcare, Medicine and Biology
+#   date: 2025.3
 - name: Award for Science Research of Peking University
   date: 2024.12
 - name: "The Third Prize of Peking University Scholarship"
   date: 2024.12
 - name: BMEJ Fellowship Award of Georgia Institute of Technology
   date: 2024.10
-- name: "The Third Prize of the 32nd Challenge Cup May Fourth Youth Science Award Competition of Peking University"
-  date: 2024.6
-- name: Outstanding Communist Youth League Member of Peking University
-  date: 2024.5
-- name: Award for Contribution in Student Organizations of Peking University
-  date: 2023.12
+# - name: "The Third Prize of the 32nd Challenge Cup May Fourth Youth Science Award Competition of Peking University"
+#   date: 2024.6
+# - name: Outstanding Communist Youth League Member of Peking University
+#   date: 2024.5
+# - name: Award for Contribution in Student Organizations of Peking University
+#   date: 2023.12
 - name: Award for Science Research of Peking University
   date: 2022.12
 - name: Excellent Graduate of Peking University
@@ -109,5 +109,5 @@ awards:
   date: 2019.12
 - name: Award for Scientific Research of Peking University
   date: 2019.12
-- name: '"Shuyu Xia - Topaz Cen" Undergraduate Internship Scholarship'
-  date: 2019.6
+# - name: '"Shuyu Xia - Topaz Cen" Undergraduate Internship Scholarship'
+#   date: 2019.6
