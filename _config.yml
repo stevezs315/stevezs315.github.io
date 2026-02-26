@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-# baseurl: "/academic-homepage" # the subpath of your site, e.g. /blog
+baseurl: "/academic-homepage" # the subpath of your site, e.g. /blog
 
 # # Build settings
-# markdown: kramdown
-# plugins:
-#   - jekyll-email-protect
+markdown: kramdown
+plugins:
+  - jekyll-email-protect
 
 # # Exclude from processing.
 # # The following items will not be processed, by default. Create a custom list
@@ -32,19 +32,11 @@
 # #   - vendor/gems/
 # #   - vendor/ruby/
 
-# # timezone: Asia/Shanghai
+timezone: Asia/Beijing
 
-# collections:
-#   - publications
-#   - news
-#   - showcase
+collections:
+  - publications
+  - news
+  - showcase
 
-title: Shuang Zeng
-description: PKU-GT-Emory BME Joint Ph.D. Student
 
-author:
-  name: Shuang Zeng
-  avatar: /assets/images/avatar.jpg
-  email: stevezs@pku.edu.cn
-  location: Atlanta, Georgia, USA
-  github: stevezs315
