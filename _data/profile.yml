@@ -50,20 +50,22 @@ education:
 - name: Peking University
   logo: /assets/images/badges/PKU_red.png
   position: >-
-    Medical AI, Biomedical Engineering, College of Future Technology, Peking University <br/>
-    Ph.D. Student in <a href="http://www.milab.wiki/" target="_blank">MILab</a>
+    Biomedical Engineering, College of Future Technology <br/>
+    Ph.D. student in <a href="http://www.milab.wiki/" target="_blank">MILab</a>
   date: Sep. 2021 - present
 
 - name: Georgia Institute of Technology
   logo: /assets/images/badges/GT_logo.png
   position: >-
     Wallace H. Coulter Department of Biomedical Engineering <br/>
-    Joint Ph.D. Student in <a href="https://miblab.bme.gatech.edu/" target="_blank">Bio-MIBLab</a>
-  date: Aug. 2024 - present
+    Joint Ph.D. student in <a href="https://miblab.bme.gatech.edu/" target="_blank">Bio-MIBLab</a>
+  date: Sep. 2021 - present
 
 - name: Peking University
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Biomedical Engineering, College of Engineering
+  position: >-
+   Biomedical Engineering, College of Engineering <br/>
+   B.S. student
   date: Sep. 2017 - Jul. 2021
 
 # experience:
