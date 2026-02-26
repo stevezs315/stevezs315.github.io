@@ -23,9 +23,9 @@ orcid: 0009-0004-1936-3802
 
 short_bio_text_justify: false
 short_bio: >-
-  <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
-  </p>
+  # <p>
+  #   A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+  # </p>
   <p>
     Hi, my name is Shuang Zeng, welcome to my homepage. I received my bachelor's
     degree in Engineering from Peking University, Beijing, China in 2021. Currently,
@@ -45,21 +45,28 @@ short_bio: >-
     Welcome to reach out to me for communication and cooperation!
   </p>
 
-portrait_url: /assets/images/photos/生活照.jpg
+portrait_url: /assets/images/photos/生活照-正方形.jpg
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
 - name: Peking University
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  position: >- 
+    Medical AI, Biomedical Engineering, College of Future Technology, Peking University <br/>
+    Ph.D. Student in <a href="http://www.milab.wiki/" target="_blank">MILab</a>
+  date: Sep. 2021 - present
+
+- name: Georgia Institute of Technology
+  logo: 
+  position: >- Wallace H. Coulter Department of Biomedical Engineering <br/>
+  joint Ph.D. student in <a href="https://miblab.bme.gatech.edu/" target="_blank">Bio-MIBLab</a>
+  date: Sep. 2021 - present
+  
+- name: Peking University
+  logo: /assets/images/badges/PKU_red.png
+  position: B.S. in Biomedical Engineering, College of Engineering, Peking University
+  date: Sep. 2017 - Jul. 2021
 
 # experience:
 # - name: Peking University
