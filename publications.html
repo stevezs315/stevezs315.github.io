@@ -24,7 +24,7 @@ body_attr: >-
           <ul class="list-unstyled">
             {% for pub in site.data.co-author_pub %}
             <li style="margin-bottom: 0.75rem;">
-              <b>{{ pub.title }}.</b>
+              [{{ pub.index }}] <b>{{ pub.title }}.</b>
               {{ pub.authors }}.
               <i>{{ pub.venue }}</i>, {{ pub.year }}.
               {% if pub.url %}<a href="{{ pub.url }}">[Paper]</a>{% endif %}
