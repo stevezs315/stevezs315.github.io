@@ -44,6 +44,13 @@
 
                 <div class="row pt-2">
                     <div class="col text-center h4">
+
+                        {% if site.data.profile.cv_link %}
+                        <a class="px-1 no-break" target="_blank" href="{{ site.data.profile.cv_link | relative_url }}">
+                            <i class="fas fa-file-alt"></i>
+                        </a>
+                        {% endif %}
+                        
                         {% if site.data.profile.gscholar %}
                         {%- if site.data.profile.gscholar contains 'scholar.google' -%}
                         {%- assign gscholar_url = site.data.profile.gscholar -%}
@@ -84,13 +91,7 @@
                             <i class="fab fa-orcid"></i>
                         </a>
                         {% endif %}
-
-                        {% if site.data.profile.cv_link %}
-                        <a class="px-1 no-break" target="_blank" href="{{ site.data.profile.cv_link | relative_url }}">
-                            <i class="fas fa-file-alt"></i>
-                        </a>
-                        {% endif %}
-                        
+ 
                     </div>
                 </div>
             </div>
