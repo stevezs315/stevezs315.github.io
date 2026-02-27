@@ -28,14 +28,14 @@
 
 - title: "MultiMed-RAG: Leveraging Multi-Source Knowledge and Agent Collaboration for Medical Tasks"
   authors: "Yuxing Lu, Goi Sin Yee, <strong>Shuang Zeng</strong>, et al."
-  venue: "IEEE Engineering in Medicine and Biology Society - Biomedical and Health Informatics (BHI) 2025"
+  venue: "IEEE Engineering in Medicine and Biology Society - Biomedical and Health Informatics (BHI)"
   year: 2025
   url: "https://openreview.net/forum?id=G5beqcp9fE"
   index: 12
 
 - title: "Assessing Large Language Models for Metabolomics"
   authors: "Yuxing Lu, Goi Sin Yee, <strong>Shuang Zeng</strong>, et al."
-  venue: "IEEE Engineering in Medicine and Biology Society - Biomedical and Health Informatics (BHI) 2025"
+  venue: "IEEE Engineering in Medicine and Biology Society - Biomedical and Health Informatics (BHI)"
   year: 2025
   url: "https://openreview.net/forum?id=jrjoVhZzgx"
   index: 11
@@ -56,7 +56,7 @@
 
 - title: "V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer"
   authors: "Hangzhou He, Lei Zhu, Xinliang Zhang, <strong>Shuang Zeng</strong>, et al."
-  venue: "AAAI Conference on Artificial Intelligence (AAAI) 2025"
+  venue: "AAAI Conference on Artificial Intelligence (AAAI)"
   year: 2025
   url: "https://arxiv.org/pdf/2501.04975"
   index: 8
@@ -77,14 +77,14 @@
 
 - title: "LUCIDA: Low-dose Universal-tissue CT Image Domain Adaptation For Medical Segmentation"
   authors: "Yixin Chen, Xiangxi Meng, Yan Wang, <strong>Shuang Zeng</strong>, et al."
-  venue: "Medical Image Computing and Computer Assisted Intervention (MICCAI) 2024"
+  venue: "Medical Image Computing and Computer Assisted Intervention (MICCAI)"
   year: 2024
   url: "https://link.springer.com/chapter/10.1007/978-3-031-72111-3_37"
   index: 5
 
 - title: "Low-Rank Mixture-of-Experts for Continual Medical Image Segmentation"
   authors: "Qian Chen, Lei Zhu, Hangzhou He, Xinliang Zhang, <strong>Shuang Zeng</strong>, et al."
-  venue: "Medical Image Computing and Computer Assisted Intervention (MICCAI) 2024"
+  venue: "Medical Image Computing and Computer Assisted Intervention (MICCAI)"
   year: 2024
   url: "https://arxiv.org/abs/2406.13583"
   index: 4
