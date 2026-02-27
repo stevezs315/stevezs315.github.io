@@ -1,64 +1,64 @@
+- title: "Bridging Information Asymmetry: A Hierarchical Framework for Deterministic Blind Face Restoration"
+  authors: "Zhengjian Yao, Jiakui Hu, Kaiwen Li, Hangzhou He, Xinliang Zhang, <strong>Shuang Zeng</strong>, et al."
+  venue: "arXiv preprint"
+  year: 2026
+  url: "https://arxiv.org/abs/2601.19506"
+  index: 16
+  
+- title: "AdaTok: Adaptive Token Compression with Object-Aware Representations for Efficient Multimodal LLMs"
+  authors: "Xinliang Zhang, Lei Zhu, Hangzhou He, <strong>Shuang Zeng</strong>, Ourui Fu, Jiakui Hu, Zhengjian Yao, Yanye Lu"
+  venue: "arXiv preprint"
+  year: 2025
+  url: "https://arxiv.org/abs/2511.14169"
+  index: 15
+  
 - title: "MetaBench: A Multi-task Benchmark for Assessing LLMs in Metabolomics"
   authors: "Yuxing Lu, Xukai Zhao, J. Ben Tao, Micky C. Nnamdi, Rui Peng, <strong>Shuang Zeng</strong>, et al."
   venue: "arXiv preprint"
   year: 2025
   url: "https://www.arxiv.org/abs/2510.14944"
-  index: 16
+  index: 14
 
 - title: "I^2R: Inter and Intra-image Refinement in Few Shot Segmentation"
   authors: "Ourui Fu, Hangzhou He, Xinliang Zhang, Lei Zhu, <strong>Shuang Zeng</strong>, et al."
   venue: "arXiv preprint"
   year: 2025
   url: "https://arxiv.org/abs/2507.05838"
-  index: 15
+  index: 13
 
 - title: "MultiMed-RAG: Leveraging Multi-Source Knowledge and Agent Collaboration for Medical Tasks"
   authors: "Yuxing Lu, Goi Sin Yee, <strong>Shuang Zeng</strong>, et al."
   venue: "IEEE Engineering in Medicine and Biology Society - Biomedical and Health Informatics (BHI) 2025"
   year: 2025
   url: "https://openreview.net/forum?id=G5beqcp9fE"
-  index: 14
+  index: 12
 
 - title: "Assessing Large Language Models for Metabolomics"
   authors: "Yuxing Lu, Goi Sin Yee, <strong>Shuang Zeng</strong>, et al."
   venue: "IEEE Engineering in Medicine and Biology Society - Biomedical and Health Informatics (BHI) 2025"
   year: 2025
   url: "https://openreview.net/forum?id=jrjoVhZzgx"
-  index: 13
-
-- title: "Superpixel-Aware Contrastive Pre-training for Medical Image Segmentation"
-  authors: "<strong>Shuang Zeng</strong>, et al."
-  venue: "IEEE Engineering in Medicine and Biology Society - Biomedical and Health Informatics (BHI) 2025"
-  year: 2025
-  url: "https://openreview.net/forum?id=hxTdIFhzA2"
-  index: 12
-
-- title: "Medical Imaging Informatics - Multi-level Asymmetric Contrastive Learning for Enhancing Segmentation"
-  authors: "<strong>Shuang Zeng</strong>, et al."
-  venue: "IEEE Engineering in Medicine and Biology Society - Biomedical and Health Informatics (BHI) 2025"
-  year: 2025
-  url: "https://openreview.net/forum?id=mQGjZLK2BT"
   index: 11
-
-- title: "V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer"
-  authors: "Hangzhou He, Lei Zhu, Xinliang Zhang, <strong>Shuang Zeng</strong>, et al."
-  venue: "AAAI Conference on Artificial Intelligence (AAAI) 2025"
-  year: 2025
-  url: "https://arxiv.org/pdf/2501.04975"
-  index: 10
 
 - title: "One-Month Changes in Choroidal Vascularity Index of Medium Vessel Layer in Children with Myopia Wearing Orthokeratology Lenses: a Predictor for One-Year Changes in Axial Length"
   authors: "Junmeng Li, Bei Rong, Lei Zhu, Ruilin Zhu, Xin Rong, Yuwei Wang, Yadi Zhang, Xiaopeng Gu, <strong>Shuang Zeng</strong>, et al."
   venue: "Ophthalmology and Therapy"
   year: 2025
   url: "https://link.springer.com/article/10.1007/s40123-025-01210-2"
-  index: 9
+  index: 10
 
 - title: "Points-supervised Fundus Vessel Segmentation via Shape Priors and Contrastive Learning"
   authors: "Kaiwen Li, Hangzhou He, <strong>Shuang Zeng</strong>, et al."
   venue: "IEEE Transactions on Medical Imaging (TMI)"
   year: 2025
   url: "https://ieeexplore.ieee.org/document/11072425"
+  index: 9
+
+- title: "V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer"
+  authors: "Hangzhou He, Lei Zhu, Xinliang Zhang, <strong>Shuang Zeng</strong>, et al."
+  venue: "AAAI Conference on Artificial Intelligence (AAAI) 2025"
+  year: 2025
+  url: "https://arxiv.org/pdf/2501.04975"
   index: 8
 
 - title: "Exploiting Inherent Class Label: Towards Robust Scribble Supervised Semantic Segmentation"
@@ -68,11 +68,11 @@
   url: "https://arxiv.org/abs/2503.13895"
   index: 7
 
-- title: "Low-Rank Mixture-of-Experts for Continual Medical Image Segmentation"
-  authors: "Qian Chen, Lei Zhu, Hangzhou He, Xinliang Zhang, <strong>Shuang Zeng</strong>, et al."
-  venue: "Medical Image Computing and Computer Assisted Intervention (MICCAI) 2024"
+- title: "Branches Mutual Promotion for End-to-End Weakly Supervised Semantic Segmentation"
+  authors: "Lei Zhu, Xinliang Zhang, Hangzhou He, Qian Chen, Sha Li, <strong>Shuang Zeng</strong>, et al."
+  venue: "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)"
   year: 2024
-  url: "https://arxiv.org/abs/2406.13583"
+  url: "https://arxiv.org/abs/2308.04949"
   index: 6
 
 - title: "LUCIDA: Low-dose Universal-tissue CT Image Domain Adaptation For Medical Segmentation"
@@ -82,27 +82,27 @@
   url: "https://link.springer.com/chapter/10.1007/978-3-031-72111-3_37"
   index: 5
 
+- title: "Low-Rank Mixture-of-Experts for Continual Medical Image Segmentation"
+  authors: "Qian Chen, Lei Zhu, Hangzhou He, Xinliang Zhang, <strong>Shuang Zeng</strong>, et al."
+  venue: "Medical Image Computing and Computer Assisted Intervention (MICCAI) 2024"
+  year: 2024
+  url: "https://arxiv.org/abs/2406.13583"
+  index: 4
+
 - title: "Choroidal Optical Coherence Tomography Angiography: Noninvasive Choroidal Vessel Analysis via Deep Learning"
   authors: "Lei Zhu, Junmeng Li, Yicheng Hu, Ruilin Zhu, <strong>Shuang Zeng</strong>, et al."
   venue: "Health Data Science"
   year: 2024
   url: "https://pubmed.ncbi.nlm.nih.gov/39257642/"
-  index: 4
+  index: 3
 
 - title: "Choroidal Vascularity Index and Choroidal Structural Changes in Children With Nephrotic Syndrome"
   authors: "Wenbo Zhang, Junmeng Li, Lei Zhu, <strong>Shuang Zeng</strong>, et al."
   venue: "Translational Vision Science & Technology (TVST)"
   year: 2024
   url: "https://doi.org/10.1167/tvst.13.3.18"
-  index: 3
-
-- title: "Branches Mutual Promotion for End-to-End Weakly Supervised Semantic Segmentation"
-  authors: "Lei Zhu, Xinliang Zhang, Hangzhou He, Qian Chen, Sha Li, <strong>Shuang Zeng</strong>, et al."
-  venue: "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)"
-  year: 2023
-  url: "https://arxiv.org/abs/2308.04949"
   index: 2
-
+  
 - title: "Comparative study of deep neural networks with unsupervised Noise2Noise strategy for noise reduction of optical coherence tomography images"
   authors: "Bin Qiu, <strong>Shuang Zeng</strong>, et al."
   venue: "Journal of Biophotonics"
