@@ -3,27 +3,55 @@
   venue: "arXiv preprint"
   year: 2026
   url: "https://arxiv.org/abs/2601.19506"
-  index: 16
+  index: 20
   
 - title: "AdaTok: Adaptive Token Compression with Object-Aware Representations for Efficient Multimodal LLMs"
   authors: "Xinliang Zhang, Lei Zhu, Hangzhou He, <strong>Shuang Zeng</strong>, Ourui Fu, Jiakui Hu, Zhengjian Yao, Yanye Lu"
   venue: "arXiv preprint"
   year: 2025
   url: "https://arxiv.org/abs/2511.14169"
-  index: 15
+  index: 19
   
 - title: "MetaBench: A Multi-task Benchmark for Assessing LLMs in Metabolomics"
   authors: "Yuxing Lu, Xukai Zhao, J. Ben Tao, Micky C. Nnamdi, Rui Peng, <strong>Shuang Zeng</strong>, et al."
   venue: "arXiv preprint"
   year: 2025
   url: "https://www.arxiv.org/abs/2510.14944"
-  index: 14
+  index: 18
 
 - title: "I^2R: Inter and Intra-image Refinement in Few Shot Segmentation"
   authors: "Ourui Fu, Hangzhou He, Xinliang Zhang, Lei Zhu, <strong>Shuang Zeng</strong>, et al."
   venue: "arXiv preprint"
   year: 2025
   url: "https://arxiv.org/abs/2507.05838"
+  index: 17
+
+- title: "Multi-level asymmetric contrastive learning for volumetric medical image segmentation pre-training"
+  authors: "<strong>Shuang Zeng</strong>, et al."
+  venue: "IEEE Journal of Biomedical and Health Informatics"
+  year: 2026
+  url: "https://arxiv.org/abs/2309.11876"
+  index: 16
+
+- title: "Supercl: Superpixel guided contrastive learning for medical image segmentation pre-training"
+  authors: "<strong>Shuang Zeng</strong>, et al."
+  venue: "IEEE Transactions on Image Processing"
+  year: 2026
+  url: "https://doi.org/10.1109/TIP.2026.3657233"
+  index: 15
+
+- title: "Improve retinal artery/vein classification via channel coupling"
+  authors: "<strong>Shuang Zeng</strong>, et al."
+  venue: "Expert Systems With Applications"
+  year: 2025
+  url: "https://doi.org/10.1016/j.eswa.2025.130795"
+  index: 14
+
+- title: "Novel extraction of discriminative fine-grained feature to improve retinal vessel segmentation"
+  authors: "<strong>Shuang Zeng</strong>, et al."
+  venue: "Image and Vision Computing"
+  year: 2025
+  url: "https://doi.org/10.1016/j.imavis.2025.105729"
   index: 13
 
 - title: "MultiMed-RAG: Leveraging Multi-Source Knowledge and Agent Collaboration for Medical Tasks"
