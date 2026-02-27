@@ -10,9 +10,16 @@
             <div class="mr-3 text-muted my-1">{{ year.name }}</div>
             <div class="media-body">
                 {% for item in year.items %}
-                <div class="my-1 d-flex">
-                    <div>{{ item.content }}</div>
-                    <div class="ml-auto mt-auto text-muted no-break"><i>{{ item.date | date: "%b %d" }}</i></div>
+                <div class="my-1">
+                    <div class="d-flex">
+                        <div>[{{ item.index }}] {{ item.content }}</div>
+                        <div class="ml-auto mt-auto text-muted no-break"><i>{{ item.date | date: "%b %d" }}</i></div>
+                    </div>
+                    {% if item.image %}
+                    <div class="mt-1">
+                        <img src="{{ item.image }}" alt="news image" style="max-width: 300px; border-radius: 8px;">
+                    </div>
+                    {% endif %}
                 </div>
                 {% endfor %}
             </div>
