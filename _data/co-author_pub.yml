@@ -1,0 +1,11 @@
+- title: "Paper Title Here"
+  authors: "First Author, Second Author, Shuang Zeng, et al."
+  venue: "Journal/Conference Name"
+  year: 2024
+  url: "https://doi.org/xxx"
+
+- title: "Another Paper Title"
+  authors: "Author A, Author B, Shuang Zeng, et al."
+  venue: "Conference Name"
+  year: 2023
+  url: "https://doi.org/xxx"
