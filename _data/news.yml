@@ -1,7 +1,14 @@
+- date: "2026-02-22"
+  index: 8
+  content: "My first-author paper titled <i>Multi-level Asymmetric Contrastive Learning for Medical Image Segmentation Pre-training</i> was accepted by journal IEEE Journal of Biomedical and Health Informatics (JBHI)."
 
+- date: "2026-02-20"
+  index: 7
+  content: "One co-author paper was accepted by the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026."
+  
 - date: "2026-01-17"
   index: 6
-  content: "My first-author paper titled SuperCL: <i>Superpixel Guided Contrastive Learning for Medical Image Segmentation Pre-training</i> was accepted by top journal IEEE Transactions on Image Processing (TIP)."
+  content: "My first-author paper titled <i>SuperCL: Superpixel Guided Contrastive Learning for Medical Image Segmentation Pre-training</i> was accepted by top journal IEEE Transactions on Image Processing (TIP)."
 
 - date: "2025-12-09"
   index: 5
