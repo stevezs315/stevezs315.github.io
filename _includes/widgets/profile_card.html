@@ -50,11 +50,11 @@
                             <i class="fas fa-at"></i> <span class="email-text">{{ site.data.profile.email | replace: "@", "(at)" }}</span>
                         </a>
 
-                        {% if site.data.profile.cv_link %}
+                        <!-- {% if site.data.profile.cv_link %}
                         <a class="pr-3 no-break" target="_blank" href="{{ site.data.profile.cv_link | relative_url }}">
                             <i class="fas fa-file-alt"></i> CV
                         </a>
-                        {% endif %}
+                        {% endif %} -->
                         
                         {% if site.data.profile.gscholar %}
                         {%- if site.data.profile.gscholar contains 'scholar.google' -%}
