@@ -25,7 +25,7 @@ body_attr: >-
             {% for pub in site.data.co-author_pub %}
             <li style="margin-bottom: 0.75rem;">
               [{{ pub.index }}] {{ pub.title }}.
-              {{ pub.authors }}.
+              {{ pub.authors }}
               <i>{{ pub.venue }}</i>, {{ pub.year }}.
               {% if pub.url %}<a href="{{ pub.url }}">[Paper]</a>{% endif %}
             </li>
