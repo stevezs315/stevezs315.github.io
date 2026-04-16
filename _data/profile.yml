@@ -69,7 +69,13 @@ education:
    B.S. student
   date: Sep. 2017 - Jul. 2021
 
-# experience:
+experience:
+- name: ByteDance
+  logo: /assets/images/badges/PKU_red.png
+  position: >-
+    Platform Governance, TikTok Shop <br/>
+    AI agent developer 
+  date: Mar. 2026 - present
 # - name: Peking University
 #   logo: /assets/images/badges/PKU_red.png
 #   position: Research Intern
