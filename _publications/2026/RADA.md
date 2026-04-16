@@ -6,7 +6,7 @@ pub: "arxiv"
 pub_date: "2026"
 abstract: >-
   we propose RADA, a novel Region-Aware Dual-encoder Auxiliary learning pipeline which introduces a dual-encoder framework pre-trained on Alpha-CLIP to
-extract fine-grained, region-specific visual features from the original images and limited annotations for barely-supervised medical image segmentation.  
+  extract fine-grained, region-specific visual features from the original images and limited annotations for barely-supervised medical image segmentation.  
 cover: /assets/images/covers/SuperCL_cover.png
 authors:
   - Shuang Zeng
