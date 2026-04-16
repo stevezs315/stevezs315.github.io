@@ -132,7 +132,7 @@
   index: 2
   
 - authors: "Bin Qiu, <strong>Shuang Zeng</strong>, et al."
-  title: '\"Comparative study of deep neural networks with unsupervised Noise2Noise strategy for noise reduction of optical coherence tomography images\"'
+  title: "Comparative study of deep neural networks with unsupervised Noise2Noise strategy for noise reduction of optical coherence tomography images"
   venue: "<strong>Journal of Biophotonics</strong>"
   year: 2021
   url: "https://doi.org/10.1002/jbio.202100151"
