@@ -1,29 +1,43 @@
-- authors: "Zhengjian Yao, Jiakui Hu, Kaiwen Li, Hangzhou He, Xinliang Zhang, <strong>Shuang Zeng</strong>, et al."
-  title: "Bridging Information Asymmetry: A Hierarchical Framework for Deterministic Blind Face Restoration"
-  venue: "<strong>arXiv preprint</strong>"
+# - authors: "Zhengjian Yao, Jiakui Hu, Kaiwen Li, Hangzhou He, Xinliang Zhang, <strong>Shuang Zeng</strong>, et al."
+#   title: "Bridging Information Asymmetry: A Hierarchical Framework for Deterministic Blind Face Restoration"
+#   venue: "<strong>arXiv preprint</strong>"
+#   year: 2026
+#   url: "https://arxiv.org/abs/2601.19506"
+#   index: 21
+  
+# - authors: "Xinliang Zhang, Lei Zhu, Hangzhou He, <strong>Shuang Zeng</strong>, Ourui Fu, Jiakui Hu, Zhengjian Yao, Yanye Lu"
+#   title: "AdaTok: Adaptive Token Compression with Object-Aware Representations for Efficient Multimodal LLMs"
+#   venue: "<strong>arXiv preprint</strong>"
+#   year: 2025
+#   url: "https://arxiv.org/abs/2511.14169"
+#   index: 20
+  
+# - authors: "Ourui Fu, Hangzhou He, Xinliang Zhang, Lei Zhu, <strong>Shuang Zeng</strong>, et al."
+#   title: "I^2R: Inter and Intra-image Refinement in Few Shot Segmentation"
+#   venue: "<strong>arXiv preprint</strong>"
+#   year: 2025
+#   url: "https://arxiv.org/abs/2507.05838"
+#   index: 19
+
+- authors: "Yuanwei Li, Xinliang Zhang, Hangzhou He, Kaiwen Li, <strong>Shuang Zeng</strong>, et al."
+  title: "WeakMitoSAM: competitive prompt aggregation for point-supervised mitochondria segmentation in electron microscopy images"
+  venue: "<strong>Biomedical Optics Express</strong>"
   year: 2026
-  url: "https://arxiv.org/abs/2601.19506"
-  index: 20
-  
-- authors: "Xinliang Zhang, Lei Zhu, Hangzhou He, <strong>Shuang Zeng</strong>, Ourui Fu, Jiakui Hu, Zhengjian Yao, Yanye Lu"
-  title: "AdaTok: Adaptive Token Compression with Object-Aware Representations for Efficient Multimodal LLMs"
-  venue: "<strong>arXiv preprint</strong>"
-  year: 2025
-  url: "https://arxiv.org/abs/2511.14169"
+  url: "https://doi.org/10.1364/BOE.592074"
   index: 19
-  
+
 - authors: "Yuxing Lu, Xukai Zhao, J. Ben Tao, Micky C. Nnamdi, Rui Peng, <strong>Shuang Zeng</strong>, et al."
   title: "MetaBench: A Multi-task Benchmark for Assessing LLMs in Metabolomics"
-  venue: "<strong>arXiv preprint</strong>"
-  year: 2025
+  venue: "<strong>the Annual Meeting of the Association for Computational Linguistics (ACL)</strong>"
+  year: 2026
   url: "https://www.arxiv.org/abs/2510.14944"
   index: 18
 
-- authors: "Ourui Fu, Hangzhou He, Xinliang Zhang, Lei Zhu, <strong>Shuang Zeng</strong>, et al."
-  title: "I^2R: Inter and Intra-image Refinement in Few Shot Segmentation"
-  venue: "<strong>arXiv preprint</strong>"
-  year: 2025
-  url: "https://arxiv.org/abs/2507.05838"
+- authors: "JiaKui Hu, Jialun Liu, Liying Yang, Xinliang Zhang, Kaiwen Li, <strong>Shuang Zeng</strong>, et al."
+  title: "Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context"
+  venue: "<strong>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</strong>"
+  year: 2026
+  url: "https://arxiv.org/abs/2602.21929"
   index: 17
 
 - authors: "<strong>Shuang Zeng</strong>, et al."
