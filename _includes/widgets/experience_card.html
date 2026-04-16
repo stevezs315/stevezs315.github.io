@@ -2,9 +2,11 @@
     <div class="col">
         <div class="card border-0 shadow-sm bg-white">
             <div class="card-body p-4">
-                <div class="row" data-masonry='{"percentPosition": true }'>
-                    {% if site.data.profile.education %}
+                <div class="row">
+                    
+                    <!-- 左半部分：合并 Education 和 Experience -->
                     <div class="col-lg-6">
+                        {% if site.data.profile.education %}
                         <div class="mx-2 my-1">
                             <h6>Education</h6>
                             <ul class="list-unstyled mb-1">
@@ -23,12 +25,10 @@
                                 {% endfor %}
                             </ul>
                         </div>
-                    </div>
-                    {% endif %}
+                        {% endif %}
 
-                    {% if site.data.profile.experience %}
-                    <div class="col-lg-6">
-                        <div class="mx-2 my-1">
+                        {% if site.data.profile.experience %}
+                        <div class="mx-2 mt-4 mb-1">
                             <h6>Experience</h6>
                             <ul class="list-unstyled mb-1">
                                 {% for item in site.data.profile.experience %}
@@ -46,11 +46,12 @@
                                 {% endfor %}
                             </ul>
                         </div>
+                        {% endif %}
                     </div>
-                    {% endif %}
-
-                    {% if site.data.profile.awards %}
+                    
+                    <!-- 右半部分：只放 Honors & Awards -->
                     <div class="col-lg-6">
+                        {% if site.data.profile.awards %}
                         <div class="mx-2 my-1">
                             <h6>Honors & Awards</h6>
                             <ul class="list small pl-3 mb-1">
@@ -64,11 +65,10 @@
                                 {% endfor %}
                             </ul>
                         </div>
+                        {% endif %}
                     </div>
-                    {% endif %}
 
                 </div>
-
             </div>
         </div>
     </div>
