@@ -121,7 +121,7 @@ awards:
 # - name: '"Shuyu Xia - Topaz Cen" Undergraduate Internship Scholarship'
 #   date: 2019.6
 
-academic service:
+academic_service:
 - name: >-
     Conference reviewer: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026;
     European Conference on Computer Vision (ECCV) 2026;
