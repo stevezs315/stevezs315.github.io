@@ -123,12 +123,6 @@ awards:
 
 academic_service:
 - name: >-
-    Conference reviewer: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026;
-    European Conference on Computer Vision (ECCV) 2026;
-    International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2026.
+    Conference reviewer: IEEE/CVF CVPR 2026, ECCV 2026, MICCAI 2026
 - name: >-
-    Journal reviewer: IEEE Transactions on Image Processing (TIP);
-    IEEE Transactions on Medical Imaging (TMI);
-    IEEE Transactions on Neural Networks and Learning Systems (TNNLS);
-    IEEE Transactions on Cybernetics;
-    IEEE Journal of Biomedical and Health Informatics (JBHI)
+    Journal reviewer: IEEE TIP, TNNLS, TMI, ToC (Transactions on Cybernetics), JBHI
