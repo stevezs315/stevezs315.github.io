@@ -18,6 +18,11 @@
 #   year: 2025
 #   url: "https://arxiv.org/abs/2507.05838"
 #   index: 19
+- authors: "曾爽，卢闫晔"
+  title: "一种基于多层级非对称对比学习的医学图像分割方法"
+  venue: "<strong>发明专利</strong>"
+  year: 2025
+  index: 20
 
 - authors: "Yuanwei Li, Xinliang Zhang, Hangzhou He, Kaiwen Li, <strong>Shuang Zeng</strong>, et al."
   title: "WeakMitoSAM: competitive prompt aggregation for point-supervised mitochondria segmentation in electron microscopy images"
