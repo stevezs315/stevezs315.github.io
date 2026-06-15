@@ -22,6 +22,13 @@
   title: "一种基于多层级非对称对比学习的医学图像分割方法"
   venue: "<strong>发明专利</strong>"
   year: 2025
+  index: 21
+
+- authors: "Zhengjian Yao, Jiakui Hu, Kaiwen Li, Hangzhou He, Xinliang Zhang, <strong>Shuang Zeng</strong>, et al."
+  title: "Bridging Information Asymmetry: A Hierarchical Framework for Deterministic Blind Face Restoration"
+  venue: "<strong>Transactions on Pattern Analysis and Machine Intelligence</strong>"
+  year: 2026
+  url: "https://arxiv.org/abs/2601.19506"
   index: 20
 
 - authors: "Yuanwei Li, Xinliang Zhang, Hangzhou He, Kaiwen Li, <strong>Shuang Zeng</strong>, et al."
