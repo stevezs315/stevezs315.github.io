@@ -21,5 +21,5 @@ authors:
   - Fangxiao Cheng#
 links:
   Paper: https://doi.org/10.1016/j.eswa.2025.130795
-  Code: 
+  Code: https://github.com/stevezs315/AV_seg
 ---
