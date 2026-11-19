@@ -70,13 +70,19 @@ education:
   date: Sep. 2017 - Jul. 2021
 
 experience:
-- name: ByteDance
-  logo: /assets/images/badges/bytedance_logo.jpg
-  position: >-
-    Platform Governance, TikTok Shop <br/>
-    Intern (agent development)
-  date: Mar. 2026 - Apr. 2026
+# - name: ByteDance
+#   logo: /assets/images/badges/bytedance_logo.jpg
+#   position: >-
+#     Platform Governance, TikTok Shop <br/>
+#     Intern (agent development)
+#   date: Mar. 2026 - Apr. 2026
 
+- name: Baichuan AI
+  logo: /assets/images/badges/百川.jpg
+  position: >-
+    Yuandian Top Talent Program <br/>
+    Intern (Vision Language Models)
+  date: Oct. 2026 - present
 
 # - name: Peking University
 #   logo: /assets/images/badges/PKU_red.png
